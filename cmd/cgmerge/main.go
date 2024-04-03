@@ -5,8 +5,7 @@ import (
 	"os"
 
 	flag "github.com/spf13/pflag"
-
-	"github.com/mrsombre/codingame-golang-merger/internal"
+	"github.com/yohamta/merger/internal"
 )
 
 var (

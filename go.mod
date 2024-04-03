@@ -1,4 +1,4 @@
-module github.com/mrsombre/codingame-golang-merger
+module github.com/yohamta/merger
 
 go 1.21
 
